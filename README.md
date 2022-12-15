@@ -7,7 +7,7 @@ This app helps users to follow proper diet and keep count on their calorie’s i
  This app will help you to count calories needed to maintain your weight. This app will suggest some of healthy recipes , providing tips for staying healthy etc.,
 
 ### Screenshots
-![Simulator Screen Shot - iPhone 13 - 2022-12-15 at 10 49 12](https://user-images.githubusercontent.com/91499848/207909418-06f3a2b0-891e-4514-b59c-a19b1979cb35.png)
+![Simulator Screen Shot - iPhone 13 - 2022-12-15 at 10 49 12](https://user-images.githubusercontent.com/91499848/207909418-06f3a2b0-891e-4514-b59c-a19b1979cb35.png =250x)
 ![Simulator Screen Shot - iPhone 13 - 2022-12-15 at 10 49 22](https://user-images.githubusercontent.com/91499848/207909464-c08bb25d-c37a-44b3-bf2c-844de81296f0.png)
 ![Simulator Screen Shot - iPhone 13 - 2022-12-15 at 10 49 37](https://user-images.githubusercontent.com/91499848/207909485-6653c745-0e25-4998-9f76-fdde3016867f.png)
 ![Simulator Screen Shot - iPhone 13 - 2022-12-15 at 10 49 51](https://user-images.githubusercontent.com/91499848/207909515-9c6a7ab7-9175-4f72-9578-00f1a141e807.png)
