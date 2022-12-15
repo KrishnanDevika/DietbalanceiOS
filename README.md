@@ -4,7 +4,7 @@
 
 Healthy lifestyle is gaining popularity day by day in this modern times. This app will help the users maintain a heathy diet. 
 This app helps users to follow proper diet and keep count on their calorie’s intake. It has tools to calculate BMI, calories intake and Idealweight calculator.
- This app will help you to count calories needed to maintain your weight. This app will suggest some of healthy recipes , providing tips for staying healthy etc.,
+ This app will help you to count calories needed to maintain your weight. This app will suggest some of healthy recipes.
 
 ### Screenshots
 
@@ -16,10 +16,46 @@ This app helps users to follow proper diet and keep count on their calorie’s i
 ### Features
 
 * Getting the basic information from the users 
-* Calulators for calculating BMI, Ideal Weight, Calories needed to maintain proper weight, Calorie intake for Pergnancy and BreastFeeding
+* Calulators for calculating BMI, Ideal Weight, Calories needed to maintain proper weight.
 * Suggest some of Healthy Recipes and their nutrition contents, ingredients and step-by-step instructions.
-* Suggest Diet tips 
-* Provides features to contact dietician by SMS, Email, Phone
-* Help to find Diet Centers nearby
-* Can able to follow their Social media facebook profile
-* Provides Remainder feature remainding them its time for doing physical activity.
+* Provides Remainder feature remainding them its time for drinking water.
+* Prrovides spotligt search feature.
+
+### Install and build
+
+* Clone the repo
+* Open the project in Android Studio
+* Build and run
+
+
+### Author
+
+| 		Name      |     Account    |      Email         |
+| ---------------- | ------------- | ------------------ |
+| Devika Krishnan | KrishnanDevika |  w0774427@myscc.ca |
+
+
+### License
+
+MIT License
+
+Copyright (c) [2021] [Devika Krishnan]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
