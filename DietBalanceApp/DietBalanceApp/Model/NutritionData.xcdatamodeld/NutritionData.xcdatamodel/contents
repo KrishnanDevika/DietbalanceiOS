@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="20086" systemVersion="21D62" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="FavouriteRecipes" representedClassName="FavouriteRecipes" syncable="YES">
+        <attribute name="content" optional="YES" attributeType="String"/>
+        <attribute name="foodImage" attributeType="String"/>
+        <attribute name="foodLink" optional="YES" attributeType="String"/>
+        <attribute name="foodName" attributeType="String"/>
+        <attribute name="id" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+    </entity>
+    <entity name="Foods" representedClassName="Foods" syncable="YES">
+        <attribute name="calories" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="carbs" attributeType="String"/>
+        <attribute name="fat" attributeType="String"/>
+        <attribute name="image" attributeType="String"/>
+        <attribute name="protein" attributeType="String"/>
+        <attribute name="title" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="FavouriteRecipes" positionX="-63" positionY="27" width="128" height="104"/>
+        <element name="Foods" positionX="-63" positionY="-18" width="128" height="119"/>
+    </elements>
+</model>
